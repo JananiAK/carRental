@@ -2,7 +2,7 @@
 import React from 'react'
 import { Container, Row, Col } from "reactstrap";
 import Content from "../Components/Content/Content";
-import data from "../Assets/images/data";
+import data from "../Assets/vehicleData/vehicleData";
 import VehicleItem from '../Components/Ui/VehicleItem';
 
 const VehicleListing = () => {

@@ -1,4 +1,4 @@
-import img01 from "../images/data/img1.png";
+// import img01 from "../images/data/img1.png";
 import img02 from "../images/data/Big-Van.jpg";
 import img03 from "../images/data/MBCAN-2023-EQE350-SUV-AVP-DR.webp";
 import img04 from "../images/data/Toyota-Hiace_3.jpg";
@@ -9,19 +9,19 @@ import img08 from "../images/data/solid-absoluteblack.jpg";
 import img09 from "../images/data/unnamed.jpg";
 
 const VehicleData =[
-    {
-    id: 1,
-    brand: "Tesla",
-    rating: 112,
-    carName: "Tesla Malibu",
-    imgUrl: img01,
-    model: "Model 3",
-    price: 50,
-    speed: "20kmpl",
-    gps: "GPS Navigation",
-    seatType: "Heated seats",
-    automatic: "Automatic",
-    },
+    // {
+    // id: 1,
+    // brand: "Tesla",
+    // rating: 112,
+    // carName: "Tesla Malibu",
+    // imgUrl: img01,
+    // model: "Model 3",
+    // price: 50,
+    // speed: "20kmpl",
+    // gps: "GPS Navigation",
+    // seatType: "Heated seats",
+    // automatic: "Automatic",
+    // },
 
     {
         id: 1,
